@@ -39,14 +39,14 @@
 ### Sistemas Operacionais:
 
 ![Debian](https://img.shields.io/badge/-Debian-0D1117?style=for-the-badge&logo=debian&labelColor=0D1117)&nbsp;
-![Mint](https://img.shields.io/badge/-Mint-0D1117?style=for-the-badge&logo=Mint&labelColor=0D1117)&nbsp;
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
 
 ### Linguagens de Programação:
 ![Portugol](https://img.shields.io/badge/-Portugol-0D1117?style=for-the-badge&logo=portugel&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp; 
-![SCSS](https://img.shields.io/badge/-SCSS-0D1117?style=for-the-badge&logo=SCSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![Sass](https://img.shields.io/badge/Sass/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
