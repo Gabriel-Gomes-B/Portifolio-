@@ -65,3 +65,12 @@ Curso de Matemática Aplicada e Computacional/IM - Bacharelado da UFRRJ
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 ![Flutter Web](https://img.shields.io/badge/Flutter_Web-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
+![Firebase Studio](https://img.shields.io/badge/Firebase_Studio-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
+![Project IDX](https://img.shields.io/badge/Project_IDX-4285F4?style=for-the-badge&logo=google&logoColor=white)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)&nbsp;
+![OpenAI Prism](https://img.shields.io/badge/OpenAI_Prism-412991?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
+
