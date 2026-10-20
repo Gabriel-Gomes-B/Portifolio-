@@ -74,3 +74,7 @@ Curso de Matemática Aplicada e Computacional/IM - Bacharelado da UFRRJ
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 
+### Redes:
+
+https://www.linkedin.com/in/gabriel-gomes-23bb91243/
+https://codepen.io/Gabriel-Gomes-B/pens/showcase
