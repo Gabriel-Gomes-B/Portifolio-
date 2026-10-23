@@ -2,22 +2,23 @@
 
 ### Formação acadêmica:
 
-Curso Técnico em Informática Senac RJ 
-
-Curso de Matemática Aplicada e Computacional/IM - Bacharelado da UFRRJ 
+* **Curso Técnico em Informática** — Senac RJ  
+* **Bacharelado em Matemática Aplicada e Computacional** — IM / UFRRJ
 
 ### Experiência:
 
-Criando documentos no Word, planilhas no Excel e slide no PowerPoint pelo curso técnico.
-Criação projetos de programação no curso técnico, na faculdade, nos cursos extracurriculares e pessoais.
-Criação de máquinas, Versionamento entre máquinas, Cabeamento da rede e a Infraestrutura da rede pelo curso técnico e faculdade.
-Criação de sites e blogs no WordPress pelo curso técnico.
+* **Produtividade & Documentação:** Elaboração de documentos, planilhas e apresentações corporativas utilizando o Pacote Office.
+* **Design & Prototipagem:** Criação e design de interfaces para sites e aplicações utilizando o Figma.
+* **Apresentações Acadêmicas:** Elaboração de apresentações visuais e materiais didáticos para o contexto acadêmico utilizando o Canva.
+* **Desenvolvimento de Software & Mobile:** Construção de aplicações Web, Desktop e Mobile (Android/iOS) em projetos acadêmicos, extracurriculares e pessoais, aplicando algoritmos avançados, recursividade e estruturas de dados.
+* **Infraestrutura & Redes:** Criação e versionamento de máquinas virtuais, cabeamento estruturado e infraestrutura de rede.
+* **Desenvolvimento Web:** Criação de sites e blogs utilizando WordPress e tecnologias Web.
 
 ### Qualificações:
 
-Pacote Office, Linguagens de Programação, Banco de Dados, Programação Orientada a Objetos e Infraestrutura de Redes.
+Pacote Office | Linguagens de Programação | Banco de Dados | Programação Orientada a Objetos | Infraestrutura de Redes
 
-### Ferramentas:
+### Ferramentas & Tecnologias:
 
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-E61C24?style=for-the-badge&logo=microsoftoffice&logoColor=white)&nbsp;
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft&logoColor=white)&nbsp;
@@ -83,7 +84,7 @@ Pacote Office, Linguagens de Programação, Banco de Dados, Programação Orient
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
 
-### Redes:
+### Redes Sociais & Contatos:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-gomes-23bb91243/)&nbsp;
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Gabriel-Gomes-B/pens/showcase)&nbsp;
