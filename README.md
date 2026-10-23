@@ -9,7 +9,8 @@
 
 * **Produtividade & Documentação:** Elaboração de documentos, planilhas e apresentações corporativas utilizando o Pacote Office.
 * **Design & Prototipagem:** Criação e design de interfaces para sites e aplicações utilizando o Figma.
-* **Apresentações Acadêmicas:** Elaboração de apresentações visuais e materiais didáticos para o contexto acadêmico utilizando o Canva.
+* **Apresentações & Produção Acadêmica:** Elaboração de apresentações visuais no Canva, relatórios técnicos, artigos e documentação acadêmica formatada em LaTeX (Overleaf/Prism).
+* **Projetos Acadêmicos:** Desenvolvimento de trabalhos práticos, pesquisas e modelagens em Matemática Aplicada e Computacional, unindo rigor analítico e programação.
 * **Desenvolvimento de Software & Mobile:** Construção de aplicações Web, Desktop e Mobile (Android/iOS) em projetos acadêmicos, extracurriculares e pessoais, aplicando algoritmos avançados, recursividade e estruturas de dados.
 * **Infraestrutura & Redes:** Criação e versionamento de máquinas virtuais, cabeamento estruturado e infraestrutura de rede.
 * **Desenvolvimento Web:** Criação de sites e blogs utilizando WordPress e tecnologias Web.
